@@ -766,7 +766,7 @@
     );
   }
   
-  /* plus sign */
+
   .sign {
     width: 100%;
     transition-duration: 0.3s;
@@ -782,7 +782,7 @@
   .sign svg path {
     fill: white;
   }
-  /* text */
+  
   .text {
     position: absolute;
     right: 0%;
@@ -793,7 +793,7 @@
     font-weight: 600;
     transition-duration: 0.3s;
   }
-  /* hover effect on button width */
+  
   .resume-btn:hover {
     width: 130px;
     border-radius: 40px;
@@ -805,20 +805,20 @@
     transition-duration: 0.3s;
     padding-left: 20px;
   }
-  /* hover effect button's text */
+ 
   .resume-btn:hover .text {
     opacity: 1;
     width: 70%;
     transition-duration: 0.3s;
     padding-right: 10px;
   }
-  /* button click effect*/
+ 
   .resume-btn:active {
     transform: translate(2px, 2px);
   }
-  /* landing page code ends here */
+
   
-  /* about section starts from here */
+  
   .about-section-container {
     width: 100%;
     height: fit-content;
